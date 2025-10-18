@@ -21,7 +21,7 @@ class RestaurantOrderManagement:
             "DRINKS": 1
         }
 
-        self.exchange_rate = 82  # Exchange rate for currency conversion
+        self.exchange_rate = 88  # Exchange rate for currency conversion
 
         self.setup_background(root)  # Set up the background image
 
